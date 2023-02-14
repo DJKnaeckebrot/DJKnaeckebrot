@@ -1,6 +1,6 @@
 ### Hi there, I am DJKnaeckebrot 👋
 
-![alt text]([http://url/to/img.png](https://lanyard-profile-readme.vercel.app/api/424868316398747648?theme=dark&borderRadius=30px&idleMessage=%F0%9F%98%B4%20Probably%20sleeping%20%F0%9F%98%B4)
+![alt text](https://lanyard-profile-readme.vercel.app/api/424868316398747648?theme=dark&borderRadius=30px&idleMessage=%F0%9F%98%B4%20Probably%20sleeping%20%F0%9F%98%B4)
 
 🔨 Tools and frameworks I work with
 
