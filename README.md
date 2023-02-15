@@ -8,7 +8,7 @@
 
 <br>
 
-![alt text](https://lanyard-profile-readme.vercel.app/api/424868316398747648?theme=dark&borderRadius=30px&idleMessage=%F0%9F%98%B4%20Probably%20sleeping%20%F0%9F%98%B4)
+![alt text](https://lanyard-profile-readme.vercel.app/api/424868316398747648?theme=dark&borderRadius=50px)
 
 <br>
 
@@ -34,9 +34,9 @@
 
 - **Languages**:
     
-    ![Java](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![TypeScript](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logo=J&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/Javascript%20-%232370ED.svg?style=for-the-badge&logo=Javascript&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/Typescript-%232370ED.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>   
     
