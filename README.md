@@ -7,9 +7,10 @@
 
 
 <br>
-<div>
-![alt text](https://lanyard-profile-readme.vercel.app/api/424868316398747648?theme=dark&borderRadius=50px)
-</div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://lanyard-profile-readme.vercel.app/api/424868316398747648?theme=dark&borderRadius=50px"></a>
+</p>
 
 <br>
 
