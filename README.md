@@ -7,8 +7,9 @@
 
 
 <br>
-
+<div class="center">
 ![alt text](https://lanyard-profile-readme.vercel.app/api/424868316398747648?theme=dark&borderRadius=50px)
+</div>
 
 <br>
 
